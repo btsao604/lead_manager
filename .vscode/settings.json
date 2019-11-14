@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/Boris.Tsao/.local/share/virtualenvs/lead_manager_react_django-YEXq1mrf/bin/python"
+  "python.pythonPath": "/Users/Boris.Tsao/.local/share/virtualenvs/lead_manager_react_django-YEXq1mrf/bin/python",
+  "python.linting.enabled": true
 }
